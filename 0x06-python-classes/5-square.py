@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """Defines a class Square"""
 
 
@@ -55,4 +55,4 @@ class Square:
         if self.__size == 0:
             print()
         for i in range(self.__size):
-            print("#" * (self.__siz
+            print("#" * (self.__size))
